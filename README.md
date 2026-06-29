@@ -20,7 +20,7 @@ Chronos was developed as part of the **Vibe 2 Ship Hackathon**. The objective wa
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ## Backend
 
