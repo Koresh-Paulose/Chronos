@@ -12,11 +12,11 @@ Chronos was developed as part of the **Vibe 2 Ship Hackathon**. The objective wa
 
 #  Features
 
-* 📅 Intelligent schedule management
-* 🤖 AI-generated battle plans based on user input
-* ⚡ Fast and responsive interface
-* 🎮 **Calendar Tetris** mini-game to entertain users while waiting for AI responses
-* ☁️ Cloud-backed data storage and authentication
+*  Intelligent schedule management
+*  AI-generated battle plans based on user input
+*  Fast and responsive interface
+*  **Calendar Tetris** mini-game to entertain users while waiting for AI responses
+*  Cloud-backed data storage and authentication
 
 ---
 
@@ -85,6 +85,6 @@ Their tools significantly accelerated development and helped us focus on buildin
 
 ---
 
-# 📄 License
+#  License
 
 This project was created for educational and hackathon purposes.
